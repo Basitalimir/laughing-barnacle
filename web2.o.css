@@ -1,20 +1,19 @@
+body{
+    background-color:#ECF9FF;
+}
+hr{
+    border-style: dotted ;
+}
 h1{
     color:black;
     text-align: center;
 }
-hr {
-    border: none;
-    height: px 2;
-    background: black
-}
+
 img{
     display: block;
     margin-left: auto;
     margin-right:auto;
 }  
-l{
-    color: blueviolet;
-}
 .center {
     margin-left: auto;
     margin-right: auto;
