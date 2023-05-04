@@ -1,0 +1,46 @@
+header{
+    background-color:linen;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    display: flex;
+}
+li{
+text-align: center;
+margin: auto;
+}
+body{
+    background-color:floralwhite;
+}
+hr{
+    border-style: none ;
+    border-top: dotted;
+    width: 5%;
+    border-color:gray ;
+    border-top: 7px dotted rgb(184, 182, 182);
+}
+h1{
+    text-align: center;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+image{
+    display: block;
+    margin-left: auto;
+    align-items: center;
+    justify-content: space-between;
+}  
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+.mydiv{
+    text-decoration: none;
+    color: black;
+    background-color: e;
+}
